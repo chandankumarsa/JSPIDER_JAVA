@@ -1,0 +1,27 @@
+package com.chandan;
+
+import java.util.Scanner;
+
+public class Checkchar{
+public static void main(String[] args) {
+	System.out.println("Enter a character");
+	Scanner sc = new Scanner(System.in);
+	int ch = sc.next().charAt(0);
+	if(ch>='A' && ch<='Z') {
+		System.out.println(ch+" is Upper Case");
+	}
+	else if(ch>='a' && ch<='Z') {
+		System.out.println(ch+" is Lower Case");
+	}
+	else if(ch>'0' && ch <='9') {
+		System.out.println(ch+" is Number Case");
+	}
+	else {
+		System.out.println("SPecial Charcter ");
+	}
+	
+}
+}
+
+
+//write a java program to check given character is Alphabet,number or special character
