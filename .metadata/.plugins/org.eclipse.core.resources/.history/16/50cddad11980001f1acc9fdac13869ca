@@ -1,0 +1,19 @@
+package com.chandan;
+
+import java.util.Scanner;
+
+public class A {
+	
+	public static void main(String[] args) {
+	System.out.println("Enter the Amount Calculate The Currency");
+	Scanner sc = new Scanner(System.in);
+	int n = sc.nextInt();
+	
+
+		
+	}
+
+}
+
+
+//write a java Program to Currency Calculator

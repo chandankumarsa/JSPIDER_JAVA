@@ -35,6 +35,9 @@ public class A {
             System.out.println("100's = 100 x " + count);
             amount = amount % 100;
         }
+        
+        // Close the scanner to avoid resource leaks
+        sc.close();
     }
 }
 

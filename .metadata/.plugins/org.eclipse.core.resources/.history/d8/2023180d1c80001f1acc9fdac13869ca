@@ -1,5 +1,9 @@
 package com.chandan;
+
+package com.chandan;
+
 import java.util.Scanner;
+
 public class A {
     
     public static void main(String[] args) {
@@ -35,6 +39,9 @@ public class A {
             System.out.println("100's = 100 x " + count);
             amount = amount % 100;
         }
+        
+        // Close the scanner to avoid resource leaks
+        sc.close();
     }
 }
 
