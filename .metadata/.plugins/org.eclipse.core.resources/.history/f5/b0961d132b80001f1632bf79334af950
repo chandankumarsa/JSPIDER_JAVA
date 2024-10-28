@@ -1,9 +1,0 @@
-package com.chandan;
-
-public class C {
-
-}
-
-
-//write a java program to print preceiding values if the number is positive even
-//print the sucessiding value if the given number is negative odd

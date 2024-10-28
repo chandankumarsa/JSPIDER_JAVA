@@ -13,12 +13,11 @@ public class CheckChar {
         } else if (ch >= 'a' && ch <= 'z') {
             System.out.println(ch + " is Lower Case.");
         } else if (ch >= '0' && ch <= '9') {
-            System.out.println(ch + " is a Number.");
+            System.out.println(ch + " is a Number case");
         } else {
             System.out.println(ch + " is a Special Character.");
         }
-        
-        sc.close();
+
     }
 }
 
