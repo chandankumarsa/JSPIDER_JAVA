@@ -1,15 +1,16 @@
-package Practice;
+package JavaPractice;
 
 import java.util.Scanner;
 
-public class Pal {
+public class PalindromeAllCase {
 	public static void main(String[] args) {
-		System.out.println("ENter the String To check palindrome ");
+		System.out.println("ENter A String");
 		Scanner sc = new Scanner(System.in);
-		String s =sc.next();
-		char y[]=s.toCharArray();
+		String s = sc.nextLine();
+		s=s.toUpperCase();
+		char []y=s.toCharArray();
 		int size = y.length;
-		char a[] = new char[size];
+		char a[]= new char[size];
 		int i =0;
 		while(i!=size) {
 			a[size-1-i]=y[i];
@@ -18,16 +19,15 @@ public class Pal {
 		i=0;
 		while(i!=size) {
 			if(a[i]!=y[i]) {
-				System.out.println("Not a Palindrome String");
+				System.out.println("is Not A Palindrome String");
 				return;
-				
 			}else {
 				i++;
 				continue;
 			}
 		}
 		System.out.println("Palindrome String");
-		
+
 	}
 
 }
