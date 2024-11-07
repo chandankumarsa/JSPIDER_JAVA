@@ -18,7 +18,6 @@ class A {
 public class Main {
     public static void main(String[] args) {
         String s = "racecar";
-        
         for (int i = 0; i < s.length() - 1; i++) {
             for (int j = i + 1; j < s.length(); j++) {
                 if (A.ispalindrome(s, i, j)) {
@@ -28,3 +27,9 @@ public class Main {
         }
     }
 }
+
+
+
+//How do you check if a substring of a string is a palindrome in Java?
+
+

@@ -1,17 +1,15 @@
 package Oct29;
+import java.util.Scanner;
 
 public class RemoveExtraSpaces {
     public static void main(String[] args) {
-        String input = "  Java   is  a   programming   language.  "; // Given string with extra spaces
-        String cleanedString = removeExtraSpaces(input); // Remove extra spaces
-        System.out.println("Original String: '" + input + "'");
-        System.out.println("Cleaned String: '" + cleanedString + "'");
-    }
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter a string with extra spaces:");
+        String input = scanner.nextLine();
 
-    public static String removeExtraSpaces(String s) {
-        // Trim leading and trailing spaces, then replace multiple spaces with a single space
-        return s.trim().replaceAll("\\s+", " ");
+        String result = input.trim().replaceAll("\\s+", " ");
+        System.out.println("String after removing extra spaces:");
+        System.out.println(result);
     }
 }
-
 //q=Java Program to Remove Extra Spaces from a Given String

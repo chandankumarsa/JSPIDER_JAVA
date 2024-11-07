@@ -1,6 +1,6 @@
 package Oct29;
 
-public class A {
+public class ReverseTheWords {
     public static void main(String[] args) {
         String s = "Java is Very Easy";
         String temp = "";

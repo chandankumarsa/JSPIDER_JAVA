@@ -1,5 +1,4 @@
 package Oct29;
-
 public class ReverseSentence {
 	public static void main(String[] args) {
 		String s ="Java is very Easy ";
