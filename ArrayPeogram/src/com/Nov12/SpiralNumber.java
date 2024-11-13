@@ -1,5 +1,4 @@
 package com.Nov12;
-
 public class SpiralNumber {
 	public static void main(String[] args) {
 		int[][] a = spiral(7);

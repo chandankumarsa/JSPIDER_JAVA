@@ -13,5 +13,10 @@
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="PracticeJava.MargeSort"/>
     <fullyQualifiedTypeName name="com.Nov09.MargeSort"/>
+    <fullyQualifiedTypeName name="java.time.chrono.MinguoChronology"/>
+    <fullyQualifiedTypeName name="PracticeJava.HighestElementOfAnArray"/>
+    <fullyQualifiedTypeName name="PracticeJava.SecSmallestElement"/>
+    <fullyQualifiedTypeName name="PracticeJava.SecSmallest"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.MidiChannel"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
