@@ -27,9 +27,6 @@ public class ConstructorOverloading {
 		obj1.disp();
 		Student3 obj2 = new Student3("Rohan",22);
 		obj2.disp();
-		
-		
-		
 	}
 
 }

@@ -21,4 +21,8 @@
     <fullyQualifiedTypeName name="com.Nov09.Main"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="Nov20.Node"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.InaccessibleObjectException"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="Nov20.DoubleLinkedList"/>
 </qualifiedTypeNameHistroy>
