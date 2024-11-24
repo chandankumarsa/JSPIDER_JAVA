@@ -9,7 +9,6 @@
     <fullyQualifiedTypeName name="PracticeJava.sec"/>
     <fullyQualifiedTypeName name="PracticeJava.smallestElementOfAnArray"/>
     <fullyQualifiedTypeName name="Constructor.Student3"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="PracticeJava.MargeSort"/>
     <fullyQualifiedTypeName name="com.Nov09.MargeSort"/>
     <fullyQualifiedTypeName name="java.time.chrono.MinguoChronology"/>
@@ -20,9 +19,14 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.Nov09.Main"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="Nov20.Node"/>
     <fullyQualifiedTypeName name="java.lang.reflect.InaccessibleObjectException"/>
     <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="Nov20.DoubleLinkedList"/>
+    <fullyQualifiedTypeName name="java.util.stream.Gatherer.Integrator.Greedy"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="Nov23ExceptionHandling.InsufficientBalException"/>
 </qualifiedTypeNameHistroy>

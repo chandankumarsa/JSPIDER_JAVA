@@ -139,7 +139,6 @@ public class LL {
 		}
 		head = prev;
 	}
-
 	private class Node {
 		private int value;
 		private Node next;

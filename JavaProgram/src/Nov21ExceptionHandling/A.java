@@ -1,4 +1,4 @@
-package ExceptionHandling21Nov;
+package Nov21ExceptionHandling;
 
 public class A {
 	public static void main(String[] args) {
