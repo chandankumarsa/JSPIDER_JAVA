@@ -4,8 +4,6 @@
     <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
     <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
     <fullyQualifiedTypeName name="oct26.SubString"/>
-    <fullyQualifiedTypeName name="Oct27.Main"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="PracticeJava.sec"/>
     <fullyQualifiedTypeName name="PracticeJava.smallestElementOfAnArray"/>
     <fullyQualifiedTypeName name="Constructor.Student3"/>
@@ -28,6 +26,8 @@
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
     <fullyQualifiedTypeName name="Nov23ExceptionHandling.InsufficientBalException"/>
     <fullyQualifiedTypeName name="Nov25.DigitCounter"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Oct27.Main"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
